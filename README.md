@@ -22,3 +22,16 @@ A lightweight language translation tool built using Python and Streamlit, design
 ```bash
 git clone https://github.com/shivansh31414/translation_app.git
 cd translation_app
+```
+2.**Create a virtual environment and activate it:**
+
+```bash
+python -m venv venv
+```
+# On Windows
+```bash
+venv\\Scripts\\activate
+```
+# On Unix or MacOS
+```bash
+source venv/bin/activate
